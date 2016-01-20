@@ -67,6 +67,7 @@
 
 <hr>
 
+<!--
 <div class="row">
 <?php if(!empty($book_list['RecommendList'])):?>
     <h4><strong>おすすめコメント</strong></h4>
@@ -77,6 +78,7 @@
     <?php endforeach ?>
 <?php endif;?>
 </div>
+-->
 
 <?php //レビュー・書評投稿用モーダル ?>
 <div class="modal fade" id="write_impression_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
